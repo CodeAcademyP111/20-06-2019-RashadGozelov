@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\bin\Debug\task20June.exe.config
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\bin\Debug\task20June.exe
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\bin\Debug\task20June.pdb
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\obj\Debug\task20June.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\obj\Debug\task20June.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\obj\Debug\task20June.exe
+C:\Users\user\Desktop\Task20.06.2019\task20June\task20June\obj\Debug\task20June.pdb
